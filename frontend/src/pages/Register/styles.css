@@ -53,5 +53,6 @@
 
 .register-container .content form .localization input:nth-child(2) {
     margin-left: 8px;
+    width: 80px;
 }
 
